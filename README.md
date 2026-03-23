@@ -172,6 +172,14 @@ Include the following evidence:
 * Detection validation
 
 ---
+### Wazuh Dashboard
+![Wazuh Dashboard](dashboard.png)
+
+### File Created Alert
+![File Created](wazuh1.png)
+
+### File Deleted Alert
+![File Deleted](deleted.png)
 
 ## Conclusion
 
@@ -179,6 +187,3 @@ This project demonstrates the ability to deploy a SIEM, configure a detection co
 
 ---
 
-## Author
-
-Homelab Security Project
